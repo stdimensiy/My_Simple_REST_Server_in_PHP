@@ -14,7 +14,8 @@ and open the template in the editor.
         echo 'Привет мир!!! <br>';
         echo 'Проект My Simple REST server стартовал (на PHP)<br>';
         echo 'Это исправление я внес через IDE PHP Storm (idea)<br>';
-        echo 'А вот это уже через через IDE NetBeans';
+        echo 'А вот это уже через через IDE NetBeans<br>';
+        echo 'Тестовое изменение в режиме отслеживания измеенений (инициализация Git)<br>';
         ?>
     </body>
 </html>
